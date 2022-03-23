@@ -1,0 +1,8 @@
+C:\Users\estev\source\repos\intencao_conversao\intencao_conversao\bin\Debug\intencao_conversao.exe.config
+C:\Users\estev\source\repos\intencao_conversao\intencao_conversao\bin\Debug\intencao_conversao.exe
+C:\Users\estev\source\repos\intencao_conversao\intencao_conversao\bin\Debug\intencao_conversao.pdb
+C:\Users\estev\source\repos\intencao_conversao\intencao_conversao\obj\Debug\intencao_conversao.csproj.AssemblyReference.cache
+C:\Users\estev\source\repos\intencao_conversao\intencao_conversao\obj\Debug\intencao_conversao.csproj.SuggestedBindingRedirects.cache
+C:\Users\estev\source\repos\intencao_conversao\intencao_conversao\obj\Debug\intencao_conversao.csproj.CoreCompileInputs.cache
+C:\Users\estev\source\repos\intencao_conversao\intencao_conversao\obj\Debug\intencao_conversao.exe
+C:\Users\estev\source\repos\intencao_conversao\intencao_conversao\obj\Debug\intencao_conversao.pdb
